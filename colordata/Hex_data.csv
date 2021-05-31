@@ -1,0 +1,110 @@
+Material,name,Hex,Hex_primary
+Solid,White,F4F4F4,#F4F4F4
+Solid,Grey,8A928D,#8A928D
+Solid,Light Yellow,FFD67F,#FFD67F
+Solid,Brick Red,F2705E,#F2705E
+Solid,Brick Yellow,B0A06F,#B0A06F
+Solid,Light Green,ADD9A8,#ADD9A8
+Solid,Orange,FF8500,#FF8500
+Solid,Cobalt Blue,8C00FF,#8C00FF
+Solid,Light Reddish Violet,F6A9BB,#F6A9BB
+Solid,Pastel Blue,ABD9FF,#ABD9FF
+Solid,Light Orange Brown,D86D2C,#D86D2C
+Solid,Red Orange,FF8014,#FF8014
+Solid,Pastel Green,78FC78,#78FC78
+Solid,Lemon,FFF230,#FFF230
+Solid,Pink,FF879C,#FF879C
+Solid,Rose,FF9494,#FF9494
+Solid,Nougat,BB805A,#BB805A
+Solid,Light Brown,CF8A47,#CF8A47
+Solid,Bright Red,B40000,#B40000
+Solid,Medium Reddish Violet,D05098,#D05098
+Solid,Bright Blue,1E5AA8,#1E5AA8
+Solid,Bright Yellow,FAC80A,#FAC80A
+Solid,Earth Orange,543324,#543324
+Solid,Black,1B2A34,#1B2A34
+Solid,Dark Grey,545955,#545955
+Solid,Dark Green,00852B,#00852B
+Solid,Medium Green,7FC475,#7FC475
+Solid,Light Yellowish Orange,FDC383,#FDC383
+Solid,Bright Green,58AB41,#58AB41
+Solid,Dark Orange,91501C,#91501C
+Solid,Light Bluish Violet,AFBED6,#AFBED6
+Solid,Light Blue,97CBD9,#97CBD9
+Solid,Light Red,F9B7A5,#F9B7A5
+Solid,Medium Red,F06D61,#F06D61
+Solid,Medium Blue,7396C8,#7396C8
+Solid,Light Grey,BCB4A5,#BCB4A5
+Solid,Bright Violet,671FA1,#671FA1
+Solid,Bright Yellowish Orange,F58624,#F58624
+Solid,Bright Orange,D67923,#D67923
+Solid,Bright Bluish Green,069D9F,#069D9F
+Solid,Earth Yellow,56472F,#56472F
+Solid,Bright Bluish Violet,26469A,#26469A
+Solid,Medium Bluish Violet,4861AC,#4861AC
+Solid,Medium Yellowish Green,B7D425,#B7D425
+Solid,Medium Bluish Green,00AAA4,#00AAA4
+Solid,Light Bluish Green,9CD6CC,#9CD6CC
+Solid,Bright Yellowish Green,A5CA18,#A5CA18
+Solid,Light Yellowish Green,DEEA92,#DEEA92
+Solid,Medium Yellowish Orange,F89A39,#F89A39
+Solid,Bright Reddish Orange,EE5434,#EE5434
+Solid,Bright Reddish Violet,901F76,#901F76
+Solid,Light Orange,F9A777,#F9A777
+Solid,Dark Nougat,AD6140,#AD6140
+Solid,Neon Orange,EF5828,#EF5828
+Solid,Neon Green,CDDD34,#CDDD34
+Solid,Sand Blue,70819A,#70819A
+Solid,Sand Violet,75657D,#75657D
+Solid,Medium Orange,F48147,#F48147
+Solid,Sand Yellow,897D62,#897D62
+Solid,Earth Blue,19325A,#19325A
+Solid,Earth Green,00451A,#00451A
+Solid,Dark Army Green,887F4A,#887F4A
+Solid,Sand Green,708E7C,#708E7C
+Solid,Sand Red,88605E,#88605E
+Solid,Dark Red,720012,#720012
+Solid,Curry,DD982E,#DD982E
+Solid,Tiny Blue,009ECE,#009ECE
+Solid,Fire Yellow,FFCF0B,#FFCF0B
+Solid,Flame Yellowish Orange,FCAC00,#FCAC00
+Solid,Reddish Brown,5F3109,#5F3109
+Solid,Flame Reddish Orange,EC441D,#EC441D
+Solid,Medium Stone Grey,969696,#969696
+Solid,Royal Blue,1C58A7,#1C58A7
+Solid,Dark Royal Blue,0E3E9A,#0E3E9A
+Solid,Bright Lilac,312B87,#312B87
+Solid,Bright Reddish Lilac,8A12A8,#8A12A8
+Solid,Dark Stone Grey,646464,#646464
+Solid,Light Stone Grey,C8C8C8,#C8C8C8
+Solid,Dark Curry,A47624,#A47624
+Solid,Faded Green,468A5F,#468A5F
+Solid,Turquoise,3FB6A9,#3FB6A9
+Solid,Light Royal Blue,9DC3F7,#9DC3F7
+Solid,Medium Royal Blue,476FB6,#476FB6
+Solid,Rust,872B17,#872B17
+Solid,Brown,7B5D41,#7B5D41
+Solid,Reddish Lilac,8E5597,#8E5597
+Solid,Lilac,564E9D,#564E9D
+Solid,Light Lilac,9195CA,#9195CA
+Solid,Bright Purple,D3359D,#D3359D
+Solid,Light Purple,FF9ECD,#FF9ECD
+Solid,Light Pink,F17880,#F17880
+Solid,Light Brick Yellow,F3C988,#F3C988
+Solid,Warm Yellowish Orange,FAA964,#FAA964
+Solid,Cool Yellow,FFEC6C,#FFEC6C
+Solid,Dove Blue,77C9D8,#77C9D8
+Solid,Light Faded Green,60BA76,#60BA76
+Solid,Medium Lilac,441A91,#441A91
+Solid,Tiny-Medium Blue,3E95B6,#3E95B6
+Solid,Light Nougat,FFC995,#FFC995
+Solid,Flamingo Pink,FF94C2,#FF94C2
+Solid,Dark Brown,372100,#372100
+Solid,Medium Nougat,AA7D55,#AA7D55
+Solid,Dark Azur,469BC3,#469BC3
+Solid,Medium Azur,68C3E2,#68C3E2
+Solid,Aqua,D3F2EA,#D3F2EA
+Solid,Medium Lavender,A06EB9,#A06EB9
+Solid,Lavender,CDA4DE,#CDA4DE
+Solid,Spring Yellowish Green,E2F99A,#E2F99A
+Solid,Olive Green,77774E,#77774E
